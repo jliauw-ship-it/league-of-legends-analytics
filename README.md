@@ -3,7 +3,7 @@
 
 ### Predicting wins and losses in professional League of Legends
 
-**Author:** Your Name
+**Author:** Jayden Christopher Liauw
 
 ---
 
